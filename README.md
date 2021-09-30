@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanLiebeschutz
-- 👀 I’m interested in scaling impact
+- 👀 I’m interested in helping organisations upscale their impact with digital tools and better processes
 - 🌱 I’m currently learning integrations and nocode tools
 - 💞️ I’m looking to collaborate on building products
 - 📫 How to reach me info@Danliebeschutz.com
